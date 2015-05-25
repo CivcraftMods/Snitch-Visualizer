@@ -1,4 +1,4 @@
-## Snitch-Visualizer (FML 1.8)
+## Snitch-Visualizer (FML 1.8) [![Build Status](http://dydoisbutts.info:8080/job/Snitch%20Visualizer/badge/icon)](http://dydoisbutts.info:8080/job/Snitch%20Visualizer/)
 A mod to render snitches in civcraft
 
 Compiling from Source
