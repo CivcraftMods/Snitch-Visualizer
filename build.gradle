@@ -17,9 +17,9 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.8-1.1.4"
-group= "com.github.scuwr.snitchvisualizer" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "SnitchVisualizer"
+version = '1.8-1.1.4'
+group= 'com.github.scuwr.snitchvisualizer' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'SnitchVisualizer'
 
 minecraft {
     version = "1.8-11.14.1.1325"
